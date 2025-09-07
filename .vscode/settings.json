@@ -1,5 +1,10 @@
 {
   "files.associations": {
     "vector": "cpp"
+  },
+  "[java]": {
+    "editor.formatOnSave": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.defaultFormatter": "redhat.java"
   }
 }
