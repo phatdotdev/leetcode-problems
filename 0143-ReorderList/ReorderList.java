@@ -1,6 +1,4 @@
 
-import java.util.List;
-
 public class ReorderList {
 
     public class ListNode {
