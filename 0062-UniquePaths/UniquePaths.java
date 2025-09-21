@@ -13,7 +13,7 @@ public class UniquePaths {
                 prev[c] = curr[c];
             }
         }
-        return curr[n - 1];
+        return prev[n - 1];
     }
 }
 /*
