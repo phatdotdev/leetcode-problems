@@ -3,7 +3,11 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class LongestConsecutiveSequence {
-    public int longestConsecutive(int[] nums) {
+    
+}
+
+/*
+ * public int longestConsecutive(int[] nums) {
         int n = nums.length;
         if (n <= 1)
             return n;
@@ -28,7 +32,7 @@ public class LongestConsecutiveSequence {
 
         return longest;
     }
-}
+*/
 
 /*
  * public int longestConsecutive(int[] nums) {
